@@ -4,6 +4,7 @@ This is a fork of DeepSkyStacker which uses the latest (as of 04/19/2020) libraw
 
 This allow processing (among others) Canon EOS CR3 RAW files.
 
+Use libraw-master branch to rebuild.
 
 
 ============================
