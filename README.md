@@ -1,5 +1,11 @@
 DeepSkyStacker
 
+This is a fork of DeepSkyStacker which uses the latest (as of 04/19/2020) libraw snapshot.
+
+This allow processing (among others) Canon EOS CR3 RAW files.
+
+================================================
+
 This is the github repository for all the DeepSkyStacker source code.
 
 DeepSkyStacker is a freeware created in 2006 by Luc Coiffier
